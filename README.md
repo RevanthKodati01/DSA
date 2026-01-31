@@ -7,17 +7,18 @@ This repository contains my solutions and notes for common **Data Structures & A
 - Each solution includes: approach + time/space complexity + key pitfalls (where applicable)
 
 ## Contents
+
 ### Day 01 — Arrays + HashMap
-- [Two Sum](DSA%20Python/Day%2001/01_TwoSum.py)
-- [Best Time to Buy and Sell Stock](DSA%20Python/Day%2001/02_BuySellStock.py)
-- [Contains Duplicate](DSA%20Python/Day%2001/03_ContainsDuplicate.py)
-- [Product of Array Except Self](DSA%20Python/Day%2001/04_ProductExceptSelf.py)
-- [Maximum Subarray](DSA%20Python/Day%2001/05_MaxSubarray.py)
+- [Two Sum](Day%2001/01_TwoSum.py)
+- [Best Time to Buy and Sell Stock](Day%2001/02_BuySellStock.py)
+- [Contains Duplicate](Day%2001/03_ContainsDuplicate.py)
+- [Product of Array Except Self](Day%2001/04_ProductExceptSelf.py)
+- [Maximum Subarray](Day%2001/05_MaxSubarray.py)
 
 ## Topics
 
 ### Completed
-- [x] Arrays, HashMap — [Day 01](DSA%20Python/Day%2001/)
+- [x] Arrays, HashMap — [Day 01](Day%2001/)
 
 ### Planned / Upcoming
 - [ ] Two Pointers
