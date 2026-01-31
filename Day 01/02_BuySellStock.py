@@ -1,5 +1,15 @@
 from typing import List
 
+
+"""
+Problem: Best Time to Buy and Sell Stock
+Topic: Arrays
+Approach: Track minimum price so far; update best profit each day.
+Time: O(n)
+Space: O(1)
+Pitfall: Always update min_price before computing future profits.
+"""
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         min_price = float("inf")

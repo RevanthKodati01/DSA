@@ -14,18 +14,27 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Product of Array Except Self](DSA%20Python/Day%2001/04_ProductExceptSelf.py)
 - [Maximum Subarray](DSA%20Python/Day%2001/05_MaxSubarray.py)
 
-## Topics Covered (growing)
-- Arrays, HashMap
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Stack, Monotonic Stack
-- Binary Search
-- Linked List
-- Trees (DFS/BFS)
-- Heap / Priority Queue
-- Backtracking
-- Graphs (BFS/DFS/Topo)
-- Union Find
-- Greedy
-- Dynamic Programming (1D/2D)
+## Topics
+
+### Completed
+- [x] Arrays, HashMap — [Day 01](DSA%20Python/Day%2001/)
+
+### Planned / Upcoming
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Prefix Sum
+- [ ] Stack
+- [ ] Monotonic Stack
+- [ ] Binary Search
+- [ ] Linked List
+- [ ] Trees (DFS/BFS)
+- [ ] Heap / Priority Queue
+- [ ] Backtracking
+- [ ] Graphs (BFS/DFS/Topo)
+- [ ] Union Find
+- [ ] Greedy
+- [ ] Dynamic Programming (1D/2D)
+
+## Notes
+- File naming follows: `01_<ProblemName>.py`, `02_<ProblemName>.py`, ...
+- Folder naming follows: `Day 01`, `Day 02`, ...

@@ -1,13 +1,21 @@
 from typing import List
 
+"""
+Problem: Two Sum (Unsorted)
+Topic: Arrays + HashMap
+Approach: HashMap (store value -> index, check complement)
+Time: O(n)
+Space: O(n)
+"""
+
 class Solution:
-    def twoSumSorted(self, nums: List[int], target: int) -> List[int]:
-        l, r = 0, len(nums) - 1
-        while l < r:
-            s = nums[l] + nums[r]
-            if s == target:
-                return [l, r]
-            if s < target:
-                l += 1
-            else:
-                r -= 1
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = {}  # value -> index
+
+        for i, x in enumerate(nums):
+            need = target - x
+            if need in seen:
+                return [seen[need], i]
+            seen[x] = i
+
+        return []
