@@ -15,13 +15,21 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Product of Array Except Self](Day%2001/04_ProductExceptSelf.py)
 - [Maximum Subarray](Day%2001/05_MaxSubarray.py)
 
+### Day 02 — Two Pointers
+- [Valid Palindrome](Day%2002/01_ValidPalindrome.py)
+- [Two Sum II – Input Array Is Sorted](Day%2002/02_TwoSumII.py)
+- [3Sum](Day%2002/03_3Sum.py)
+- [Container With Most Water](Day%2002/04_ContainerWithMostWater.py)
+- [Trapping Rain Water](Day%2002/05_TrappingRainWater.py)
+
+
 ## Topics
 
 ### Completed
 - [x] Arrays, HashMap — [Day 01](Day%2001/)
+- [x] Two Pointers — [Day 02](Day%2002/)
 
 ### Planned / Upcoming
-- [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Prefix Sum
 - [ ] Stack
