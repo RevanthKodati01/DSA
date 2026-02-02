@@ -16,11 +16,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Maximum Subarray](Day%2001/05_MaxSubarray.py)
 
 ### Day 02 — Two Pointers
-- [Valid Palindrome](Day%2002/01_ValidPalindrome.py)
-- [Two Sum II – Input Array Is Sorted](Day%2002/02_TwoSumII.py)
-- [3Sum](Day%2002/03_3Sum.py)
-- [Container With Most Water](Day%2002/04_ContainerWithMostWater.py)
-- [Trapping Rain Water](Day%2002/05_TrappingRainWater.py)
+- [Valid Palindrome](Day%2002/LC125_ValidPalindrome.py)
+- [Two Sum II – Input Array Is Sorted](Day%2002/LC167_TwoSumII.py)
+- [3Sum](Day%2002/LC15_3Sum.py)
+- [Container With Most Water](Day%2002/LC11_ContainerWithMostWater.py)
+- [Trapping Rain Water](Day%2002/LC42_TrappingRainWater.py)
 
 
 ## Topics
