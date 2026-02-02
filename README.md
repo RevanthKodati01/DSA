@@ -9,11 +9,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 ## Contents
 
 ### Day 01 — Arrays + HashMap
-- [Two Sum](Day%2001/01_TwoSum.py)
-- [Best Time to Buy and Sell Stock](Day%2001/02_BuySellStock.py)
-- [Contains Duplicate](Day%2001/03_ContainsDuplicate.py)
-- [Product of Array Except Self](Day%2001/04_ProductExceptSelf.py)
-- [Maximum Subarray](Day%2001/05_MaxSubarray.py)
+- [Two Sum](Day%2001/LC1_TwoSum.py)
+- [Best Time to Buy and Sell Stock](Day%2001/LC121_BuySellStock.py)
+- [Contains Duplicate](Day%2001/LC217_ContainsDuplicate.py)
+- [Product of Array Except Self](Day%2001/LC238_ProductExceptSelf.py)
+- [Maximum Subarray](Day%2001/LC53_MaxSubarray.py)
 
 ### Day 02 — Two Pointers
 - [Valid Palindrome](Day%2002/LC125_ValidPalindrome.py)
