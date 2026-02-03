@@ -22,15 +22,22 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Container With Most Water](Day%2002/LC11_ContainerWithMostWater.py)
 - [Trapping Rain Water](Day%2002/LC42_TrappingRainWater.py)
 
+### Day 03 — Sliding Window
+- [Best Time to Buy and Sell Stock](Day%2003/LC121_BuySellStock.py)
+- [Longest Substring Without Repeating Characters](Day%2003/LC3_LongestSubstringWithoutRepeatingCharacters.py)
+- [Longest Repeating Character Replacement](Day%2003/LC424_LongestRepeatingCharacterReplacement.py)
+- [Permutation in String](Day%2003/LC567_PermutationInString.py)
+- [Minimum Window Substring](Day%2003/LC76_MinimumWindowSubstring.py)
+
 
 ## Topics
 
 ### Completed
 - [x] Arrays, HashMap — [Day 01](Day%2001/)
 - [x] Two Pointers — [Day 02](Day%2002/)
+- [x] Sliding Window — [Day 03](Day%2003/)
 
 ### Planned / Upcoming
-- [ ] Sliding Window
 - [ ] Prefix Sum
 - [ ] Stack
 - [ ] Monotonic Stack
