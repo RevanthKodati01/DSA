@@ -36,6 +36,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Range Sum Query - Immutable](Day%2004/LC303_RangeSumQueryImmutable.py)
 - [Product of Array Except Self](Day%2004/LC238_ProductExceptSelf.py)
 
+### Day 05 — Stack
+- [Valid Parentheses](Day%2005/LC20_ValidParentheses.py)
+- [Min Stack](Day%2005/LC155_MinStack.py)
+- [Evaluate Reverse Polish Notation](Day%2005/LC150_EvaluateReversePolishNotation.py)
+- [Generate Parentheses](Day%2005/LC22_GenerateParentheses.py)
+- [Decode String](Day%2005/LC394_DecodeString.py)
+
 ## Topics
 
 ### Completed
@@ -43,9 +50,10 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Two Pointers — [Day 02](Day%2002/)
 - [x] Sliding Window — [Day 03](Day%2003/)
 - [x] Prefix Sum — [Day 04](Day%2004/)
+- [x] Stack — [Day 05](Day%2005/)
+
 
 ### Planned / Upcoming
-- [ ] Stack
 - [ ] Monotonic Stack
 - [ ] Binary Search
 - [ ] Linked List
