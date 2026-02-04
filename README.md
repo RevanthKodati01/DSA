@@ -29,6 +29,12 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Permutation in String](Day%2003/LC567_PermutationInString.py)
 - [Minimum Window Substring](Day%2003/LC76_MinimumWindowSubstring.py)
 
+### Day 04 — Prefix Sum
+- [Subarray Sum Equals K](Day%2004/LC560_SubarraySumEqualsK.py)
+- [Contiguous Array](Day%2004/LC525_ContiguousArray.py)
+- [Find Pivot Index](Day%2004/LC724_FindPivotIndex.py)
+- [Range Sum Query - Immutable](Day%2004/LC303_RangeSumQueryImmutable.py)
+- [Product of Array Except Self](Day%2004/LC238_ProductExceptSelf.py)
 
 ## Topics
 
@@ -36,9 +42,9 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Arrays, HashMap — [Day 01](Day%2001/)
 - [x] Two Pointers — [Day 02](Day%2002/)
 - [x] Sliding Window — [Day 03](Day%2003/)
+- [x] Prefix Sum — [Day 04](Day%2004/)
 
 ### Planned / Upcoming
-- [ ] Prefix Sum
 - [ ] Stack
 - [ ] Monotonic Stack
 - [ ] Binary Search
