@@ -58,7 +58,8 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Sliding Window — [Day 03](Day%2003/)
 - [x] Prefix Sum — [Day 04](Day%2004/)
 - [x] Stack — [Day 05](Day%2005/)
-- [x] Monotonic Stack - [Day 06](Day%2006/)
+- [x] Monotonic Stack — [Day 06](Day%2006/)
+
 
 ### Planned / Upcoming
 - [ ] Binary Search
