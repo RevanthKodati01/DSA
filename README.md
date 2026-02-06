@@ -43,6 +43,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Generate Parentheses](Day%2005/LC22_GenerateParentheses.py)
 - [Decode String](Day%2005/LC394_DecodeString.py)
 
+### Day 06 — Monotonic Stack
+- [Daily Temperatures](LC739_DailyTemperatures.py)
+- [Next Greater Element I](LC496_NextGreaterElementI.py)
+- [Next Greater Element II](LC503_NextGreaterElementII.py)
+- [Largest Rectangle in Histogram](LC84_LargestRectangleInHistogram.py)
+- [Sum of Subarray Minimums](LC907_SumOfSubarrayMinimums.py)
+
 ## Topics
 
 ### Completed
@@ -51,10 +58,9 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Sliding Window — [Day 03](Day%2003/)
 - [x] Prefix Sum — [Day 04](Day%2004/)
 - [x] Stack — [Day 05](Day%2005/)
-
+- [x] Monotonic Stack - [Day 06](Day%2006/)
 
 ### Planned / Upcoming
-- [ ] Monotonic Stack
 - [ ] Binary Search
 - [ ] Linked List
 - [ ] Trees (DFS/BFS)
