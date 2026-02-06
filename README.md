@@ -44,11 +44,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Decode String](Day%2005/LC394_DecodeString.py)
 
 ### Day 06 — Monotonic Stack
-- [Daily Temperatures](LC739_DailyTemperatures.py)
-- [Next Greater Element I](LC496_NextGreaterElementI.py)
-- [Next Greater Element II](LC503_NextGreaterElementII.py)
-- [Largest Rectangle in Histogram](LC84_LargestRectangleInHistogram.py)
-- [Sum of Subarray Minimums](LC907_SumOfSubarrayMinimums.py)
+- [Daily Temperatures](Day%2006/LC739_DailyTemperatures.py)
+- [Next Greater Element I](Day%2006/LC496_NextGreaterElementI.py)
+- [Next Greater Element II](Day%2006/LC503_NextGreaterElementII.py)
+- [Largest Rectangle in Histogram](Day%2006/LC84_LargestRectangleInHistogram.py)
+- [Sum of Subarray Minimums](Day%2006/LC907_SumOfSubarrayMinimums.py)
 
 ## Topics
 
