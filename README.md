@@ -50,6 +50,14 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Largest Rectangle in Histogram](Day%2006/LC84_LargestRectangleInHistogram.py)
 - [Sum of Subarray Minimums](Day%2006/LC907_SumOfSubarrayMinimums.py)
 
+### Day 07 — Binary Search
+- [Binary Search](Day%2007/LC704_BinarySearch.py)
+- [Search a 2D Matrix](Day%2007/LC74_SearchA2DMatrix.py)
+- [Search in Rotated Sorted Array](Day%2007/LC33_SearchInRotatedSortedArray.py)
+- [Find Minimum in Rotated Sorted Array](Day%2007/LC153_FindMinimumInRotatedSortedArray.py)
+- [Koko Eating Bananas](Day%2007/LC875_KokoEatingBananas.py)
+
+
 ## Topics
 
 ### Completed
@@ -59,10 +67,10 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Prefix Sum — [Day 04](Day%2004/)
 - [x] Stack — [Day 05](Day%2005/)
 - [x] Monotonic Stack — [Day 06](Day%2006/)
+- [x] Binary Search — [Day 07](Day%2007/)
 
 
 ### Planned / Upcoming
-- [ ] Binary Search
 - [ ] Linked List
 - [ ] Trees (DFS/BFS)
 - [ ] Heap / Priority Queue
