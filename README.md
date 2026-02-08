@@ -57,6 +57,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Find Minimum in Rotated Sorted Array](Day%2007/LC153_FindMinimumInRotatedSortedArray.py)
 - [Koko Eating Bananas](Day%2007/LC875_KokoEatingBananas.py)
 
+### Day 08 — Linked List
+- [Merge Two Sorted Lists](Day%2008/LC21_MergeTwoSortedLists.py)
+- [Reverse Linked List](Day%2008/LC206_ReverseLinkedList.py)
+- [Linked List Cycle](Day%2008/LC141_LinkedListCycle.py)
+- [Remove Nth Node From End of List](Day%2008/LC19_RemoveNthNodeFromEnd.py)
+- [Reorder List](Day%2008/LC143_ReorderList.py)
+
 
 ## Topics
 
@@ -68,10 +75,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Stack — [Day 05](Day%2005/)
 - [x] Monotonic Stack — [Day 06](Day%2006/)
 - [x] Binary Search — [Day 07](Day%2007/)
+- [x] Linked List — [Day 08](Day%2008/)
+
 
 
 ### Planned / Upcoming
-- [ ] Linked List
 - [ ] Trees (DFS/BFS)
 - [ ] Heap / Priority Queue
 - [ ] Backtracking
