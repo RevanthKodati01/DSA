@@ -64,6 +64,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Remove Nth Node From End of List](Day%2008/LC19_RemoveNthNodeFromEnd.py)
 - [Reorder List](Day%2008/LC143_ReorderList.py)
 
+### Day 09 — Trees (DFS/BFS)
+- [Invert Binary Tree](Day%2009/LC226_InvertBinaryTree.py)
+- [Maximum Depth of Binary Tree](Day%2009/LC104_MaximumDepthOfBinaryTree.py)
+- [Diameter of Binary Tree](Day%2009/LC543_DiameterOfBinaryTree.py)
+- [Binary Tree Level Order Traversal](Day%2009/LC102_BinaryTreeLevelOrderTraversal.py)
+- [Validate Binary Search Tree](Day%2009/LC98_ValidateBinarySearchTree.py)
+
 
 ## Topics
 
@@ -76,11 +83,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Monotonic Stack — [Day 06](Day%2006/)
 - [x] Binary Search — [Day 07](Day%2007/)
 - [x] Linked List — [Day 08](Day%2008/)
+- [x] Trees (DFS/BFS) — [Day 09](Day%2009/)
 
 
 
 ### Planned / Upcoming
-- [ ] Trees (DFS/BFS)
 - [ ] Heap / Priority Queue
 - [ ] Backtracking
 - [ ] Graphs (BFS/DFS/Topo)
