@@ -71,6 +71,12 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Binary Tree Level Order Traversal](Day%2009/LC102_BinaryTreeLevelOrderTraversal.py)
 - [Validate Binary Search Tree](Day%2009/LC98_ValidateBinarySearchTree.py)
 
+### Day 10 — Heap / Priority Queue
+- [Kth Largest Element in an Array](Day%2010/LC215_KthLargestElementInAnArray.py)
+- [Merge k Sorted Lists](Day%2010/LC23_MergeKSortedLists.py)
+- [Find Median from Data Stream](Day%2010/LC295_FindMedianFromDataStream.py)
+- [Top K Frequent Elements](Day%2010/LC347_TopKFrequentElements.py)
+- [K Closest Points to Origin](Day%2010/LC973_KClosestPointsToOrigin.py)
 
 ## Topics
 
@@ -84,11 +90,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Binary Search — [Day 07](Day%2007/)
 - [x] Linked List — [Day 08](Day%2008/)
 - [x] Trees (DFS/BFS) — [Day 09](Day%2009/)
+- [x] Heap / Priority Queue — [Day 10](Day%2010/)
 
 
 
 ### Planned / Upcoming
-- [ ] Heap / Priority Queue
 - [ ] Backtracking
 - [ ] Graphs (BFS/DFS/Topo)
 - [ ] Union Find
