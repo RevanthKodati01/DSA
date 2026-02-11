@@ -78,6 +78,14 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Top K Frequent Elements](Day%2010/LC347_TopKFrequentElements.py)
 - [K Closest Points to Origin](Day%2010/LC973_KClosestPointsToOrigin.py)
 
+### Day 11 — Backtracking
+- [Combination Sum](Day%2011/LC39_CombinationSum.py)
+- [Permutations](Day%2011/LC46_Permutations.py)
+- [N-Queens](Day%2011/LC51_NQueens.py)
+- [Subsets](Day%2011/LC78_Subsets.py)
+- [Word Search](Day%2011/LC79_WordSearch.py)
+
+
 ## Topics
 
 ### Completed
@@ -91,11 +99,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Linked List — [Day 08](Day%2008/)
 - [x] Trees (DFS/BFS) — [Day 09](Day%2009/)
 - [x] Heap / Priority Queue — [Day 10](Day%2010/)
+- [x] Backtracking — [Day 11](Day%2011/)
 
 
 
 ### Planned / Upcoming
-- [ ] Backtracking
 - [ ] Graphs (BFS/DFS/Topo)
 - [ ] Union Find
 - [ ] Greedy
