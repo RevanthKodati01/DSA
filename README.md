@@ -85,6 +85,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Subsets](Day%2011/LC78_Subsets.py)
 - [Word Search](Day%2011/LC79_WordSearch.py)
 
+### Day 12 — Graphs (BFS/DFS/Topo)
+- [Clone Graph](Day%2012/LC133_CloneGraph.py)
+- [Number of Islands](Day%2012/LC200_NumberOfIslands.py)
+- [Course Schedule](Day%2012/LC207_CourseSchedule.py)
+- [Pacific Atlantic Water Flow](Day%2012/LC417_PacificAtlanticWaterFlow.py)
+- [Rotting Oranges](Day%2012/LC994_RottingOranges.py)
+
 
 ## Topics
 
@@ -100,11 +107,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Trees (DFS/BFS) — [Day 09](Day%2009/)
 - [x] Heap / Priority Queue — [Day 10](Day%2010/)
 - [x] Backtracking — [Day 11](Day%2011/)
+- [x] Graphs (BFS/DFS/Topo) — [Day 12](Day%2012/)
 
 
 
 ### Planned / Upcoming
-- [ ] Graphs (BFS/DFS/Topo)
 - [ ] Union Find
 - [ ] Greedy
 - [ ] Dynamic Programming (1D/2D)
