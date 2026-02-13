@@ -92,6 +92,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Pacific Atlantic Water Flow](Day%2012/LC417_PacificAtlanticWaterFlow.py)
 - [Rotting Oranges](Day%2012/LC994_RottingOranges.py)
 
+### Day 13 — Union Find
+- [Min Cost to Connect All Points](Day%2013/LC1584_MinCostToConnectAllPoints.py)
+- [Find if Path Exists in Graph](Day%2013/LC1971_FindIfPathExistsInGraph.py)
+- [Number of Provinces](Day%2013/LC547_NumberOfProvinces.py)
+- [Redundant Connection](Day%2013/LC684_RedundantConnection.py)
+- [Accounts Merge](Day%2013/LC721_AccountsMerge.py)
+
 
 ## Topics
 
@@ -108,11 +115,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Heap / Priority Queue — [Day 10](Day%2010/)
 - [x] Backtracking — [Day 11](Day%2011/)
 - [x] Graphs (BFS/DFS/Topo) — [Day 12](Day%2012/)
+- [x] Union Find — [Day 13](Day%2013/)
 
 
 
 ### Planned / Upcoming
-- [ ] Union Find
 - [ ] Greedy
 - [ ] Dynamic Programming (1D/2D)
 
