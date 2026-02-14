@@ -106,6 +106,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Non-overlapping Intervals](Day%2014/LC435_NonOverlappingIntervals.py)
 - [Partition Labels](Day%2014/LC763_PartitionLabels.py)
 
+### Day 15 — Dynamic Programming (1D/2D)
+- [Climbing Stairs](Day%2015/LC70_ClimbingStairs.py)
+- [House Robber](Day%2015/LC198_HouseRobber.py)
+- [Coin Change](Day%2015/LC322_CoinChange.py)
+- [Unique Paths](Day%2015/LC62_UniquePaths.py)
+- [Longest Common Subsequence](Day%2015/LC1143_LongestCommonSubsequence.py)
+
 
 ## Topics
 
@@ -124,11 +131,7 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Graphs (BFS/DFS/Topo) — [Day 12](Day%2012/)
 - [x] Union Find — [Day 13](Day%2013/)
 - [x] Greedy — [Day 14](Day%2014/)
-
-
-
-### Planned / Upcoming
-- [ ] Dynamic Programming (1D/2D)
+- [x] Dynamic Programming (1D/2D) — [Day 15](Day%2015/)
 
 ## Notes
 - File naming follows: `01_<ProblemName>.py`, `02_<ProblemName>.py`, ...
