@@ -41,3 +41,4 @@ class Solution:
 
         tail.next = None
         return dummy.next
+
