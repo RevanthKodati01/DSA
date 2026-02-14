@@ -99,6 +99,13 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [Redundant Connection](Day%2013/LC684_RedundantConnection.py)
 - [Accounts Merge](Day%2013/LC721_AccountsMerge.py)
 
+### Day 14 — Greedy
+- [Jump Game](Day%2014/LC55_JumpGame.py)
+- [Gas Station](Day%2014/LC134_GasStation.py)
+- [Merge Intervals](Day%2014/LC56_MergeIntervals.py)
+- [Non-overlapping Intervals](Day%2014/LC435_NonOverlappingIntervals.py)
+- [Partition Labels](Day%2014/LC763_PartitionLabels.py)
+
 
 ## Topics
 
@@ -116,11 +123,11 @@ This repository contains my solutions and notes for common **Data Structures & A
 - [x] Backtracking — [Day 11](Day%2011/)
 - [x] Graphs (BFS/DFS/Topo) — [Day 12](Day%2012/)
 - [x] Union Find — [Day 13](Day%2013/)
+- [x] Greedy — [Day 14](Day%2014/)
 
 
 
 ### Planned / Upcoming
-- [ ] Greedy
 - [ ] Dynamic Programming (1D/2D)
 
 ## Notes
